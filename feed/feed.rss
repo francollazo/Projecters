@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Games online</title>
+        <description>Website about games online</description>
+        <link>https://francollazo.github.io/Projecters/</link>
+        <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+        <managingEditor>a22franciscoco@iessanclemente.net</managingEditor>
+        <item>
+            <title>Ikariam</title>
+            <link>https://francollazo.github.io/Projecters/</link>
+            <pubDate>Fri, 24 Nov 2023 09:40:02 GMT</pubDate>
+            <description>Ikariam</description>
+        </item>
+    </channel>
+</rss>
